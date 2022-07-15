@@ -1,0 +1,33 @@
+.img{display: block;
+     margin: 20px auto;}
+.box1{  
+    background-color:rgba(110, 103, 103, 0.53);
+margin-left: 22px;
+margin-right: 22px;
+margin-bottom:3px ;
+}
+  body {
+    text-align: center;
+    }
+
+.b1{width: 32%; 
+    margin-right:3px;
+    background-color: aquamarine;
+  
+}
+
+.b2{width: 32%; 
+    background-color: rgb(83, 171, 142);
+    margin-right:3px;
+    float: left;}
+
+.b3{width: 32%; 
+   
+    background-color: rgb(89, 201, 164);
+    float: left;}
+.contanier{display: flex;
+    justify-content: center;
+    }
+.b4{margin-top: 5px;
+    margin-bottom: 5px;
+}
